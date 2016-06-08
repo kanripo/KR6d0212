@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:44.903694
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:40
 #+TITLE: 天台智者大師發願文
 #+PROPERTY: CBETA_ID X55n0913
 #+PROPERTY: ID KR6d0212
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 55, No. 913
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0212_X_001-0688c> 
 #+PROPERTY: JUAN 1
-No.913¶
-
- 天台智者大師發願文¶
+No. 913¶
+天台智者大師發願文¶
 ¶
 
 夫欲念誦。滅罪障。助菩提。應須發願。¶
@@ -24,7 +23,7 @@ No.913¶
 大菩薩摩訶薩眾．諸賢聖僧．常住三寶。唯願神力。慈¶
 哀護念。願當證知。以此念誦。善根功德。專用莊嚴四¶
 恩三有．盡十方法界一切眾生。願共法界諸眾生等。¶
-從無始已來。至於今日。昏沈倒惑。六根．三業造一切¶
+從無始巳來。至於今日。昏沈倒惑。六根．三業造一切¶
 鄣道之罪。若麤若細。齊佛所知。一時消滅。生生世世。¶
 永離地獄．餓鬼．畜生身。永離女人身。永離邊地．下賤．¶
 八難身。願共法界諸眾生等。若於此生。若於餘生。常¶
